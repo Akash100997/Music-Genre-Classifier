@@ -1,7 +1,4 @@
-## Music-Genre-Classifier
-
-
-### Steps to be followed
+## Steps to be followed
 
   1.Download and Unzip the dataset provied in the [Kaggle Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification).
 
