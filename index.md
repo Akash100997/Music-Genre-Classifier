@@ -1,7 +1,5 @@
 ## Music-Genre-Classifier
 
-In this project, we will use the dataset provided by Kaggle to build and train a Convolutional Neural Network for classifying the Music Genres.
-
 
 ### Steps to be followed
 
