@@ -11,19 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Music-Genre-Classifier
+
+
+In this project, we will use the dataset provided by Kaggle to build and train a Convolutional Neural Network for classifying the Music Genres.
+
+
+### Steps to be followed
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1.Download and Unzip the dataset provied in the [Kaggle Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification).
+2.We need to preprocess the dataset. Which means we have to extract the feautres(MFCC) of the different music genres(Blues, Rock, Metal, Jazz, Disco, etc..) and label it accordingly.
+3.Store the MFCC features in a json file.
+4.Load and split the Dataset to Train , Test and Validation.
+5.Build the Architecture for the model.
+6.Compile the model.
+7.Train the Model and evalute.
+8.Inference/ Prediction is done on the trained model.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
