@@ -8,7 +8,7 @@
   
   4.Load and split the Dataset to Train , Test and Validation.
   
-  5.Build the Architecture for the model.
+  5.Build the CNN model.
   
   6.Compile the model.
   
