@@ -1,3 +1,7 @@
+## Music Genre Classifier
+
+This project is about a Music genre classification, which classifies the type of genre (Blues, Disco, Rock, etc..)
+
 ## Steps to be followed
 
   1.Download and Unzip the dataset provied in the [Kaggle Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification).
