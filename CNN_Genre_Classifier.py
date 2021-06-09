@@ -127,3 +127,6 @@ if __name__ == "__main__":
     x = x_test[100]
     y = y_test[100]
     predict(model, x, y)
+    
+    # Save the trained model
+    model.save("music_genre_classifier.h5")
